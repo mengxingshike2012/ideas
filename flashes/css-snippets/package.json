@@ -1,0 +1,14 @@
+{
+  "name": "css-snippets",
+  "version": "1.0.0",
+  "description": "common and useful  css snippets. ",
+  "main": "index.html",
+  "scripts": {
+    "test": "n"
+  },
+  "keywords": [
+    "css3"
+  ],
+  "author": "windfantasy",
+  "license": "MIT"
+}
