@@ -4,11 +4,25 @@
   "description": "common and useful  css snippets. ",
   "main": "index.html",
   "scripts": {
-    "test": "n"
+    "start": "webpack-dev-server --progress --inline --hot"
   },
   "keywords": [
     "css3"
   ],
   "author": "windfantasy",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.25.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "html-webpack-plugin": "^2.24.1",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "dependencies": {
+    "node-sass": "^3.11.0",
+    "postcss-loader": "^1.1.0",
+    "sass-loader": "^4.0.2"
+  }
 }
