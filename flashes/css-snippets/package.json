@@ -4,7 +4,7 @@
   "description": "common and useful  css snippets. ",
   "main": "index.html",
   "scripts": {
-    "start": "webpack-dev-server --progress --inline --hot"
+    "start": "webpack-dev-server --progress --hot --inline"
   },
   "keywords": [
     "css3"
