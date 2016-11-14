@@ -1,0 +1,28 @@
+{
+  "name": "draft.js-ts",
+  "version": "1.0.0",
+  "description": "using typescript with draft.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --progress --inline --hot --history-api-fallback --port 3001"
+  },
+  "keywords": [
+    "typescript",
+    "draft.js"
+  ],
+  "author": "wind_fantasy",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^0.14.47",
+    "@types/react-dom": "^0.14.18",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.24.1",
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^1.2.0",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
