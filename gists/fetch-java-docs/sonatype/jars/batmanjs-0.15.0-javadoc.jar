@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>404 - Not Found</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+            
+    <link rel="icon" type="image/png" href="http://192.168.1.177:8081/nexus/favicon.png">
+    <!--[if IE]>
+    <link rel="SHORTCUT ICON" href="http://192.168.1.177:8081/nexus/favicon.ico"/>
+    <![endif]-->
+
+    <link rel="stylesheet" href="http://192.168.1.177:8081/nexus/static/css/Sonatype-content.css?2.11.2-04" type="text/css" media="screen" title="no title" charset="utf-8">
+  </head>
+  <body>
+    <h1>404 - Not Found</h1>
+    <p>Repository proxy-mode is BLOCKED_AUTO, remote access not allowed from M2Repository(id=central)</p>
+  </body>
+</html>
